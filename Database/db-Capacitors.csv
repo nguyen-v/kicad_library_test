@@ -1,2 +1,2 @@
 IPN,Symbol,Footprint,Value,Description,MPN,Manufacturer,Datasheet,Operating Temperature,RoHS Status,Supplier,Supplier Part Number,Package
-CAP-0000000,Device:C,Capacitor_SMD:C_0402_1005Metric,100nF,0.1 µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric),CC0603KRX7R7BB104,YAGEO,https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R7BB104,-55°C ~ 125°C,ROHS3 Compliant,Digikey,311-1088-1-ND,0603
+CAP-0000000,Device:C,#lib - Capacitors:CAPC160X080X090L040N;#lib - Capacitors:CAPC160X080X090L040L;#lib - Capacitors:CAPC160X080X090L040M,100nF,0.1 µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric),CC0603KRX7R7BB104,YAGEO,https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R7BB104,-55°C ~ 125°C,ROHS3 Compliant,Digikey,311-1088-1-ND,0603
