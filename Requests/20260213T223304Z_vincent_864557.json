@@ -1,0 +1,77 @@
+{
+  "action": "category_add",
+  "category": "Resistors",
+  "created_at": "20260213T223304Z",
+  "created_by": "vincent",
+  "fields": [
+    {
+      "name": "IPN",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Symbol",
+      "visible_in_chooser": false,
+      "visible_on_add": false
+    },
+    {
+      "name": "Footprint",
+      "visible_in_chooser": false,
+      "visible_on_add": false
+    },
+    {
+      "name": "Package",
+      "visible_in_chooser": true,
+      "visible_on_add": true
+    },
+    {
+      "name": "Value",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Description",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "MPN",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Manufacturer",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Datasheet",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Operating Temperature",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "RoHS Status",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Supplier",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    },
+    {
+      "name": "Supplier Part Number",
+      "visible_in_chooser": true,
+      "visible_on_add": false
+    }
+  ],
+  "prefix": "",
+  "schema_version": 1,
+  "source": "kicad_plugin_ui",
+  "width": 7
+}
