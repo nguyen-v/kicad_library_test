@@ -1,0 +1,22 @@
+{
+  "action": "add",
+  "category": "Capacitors",
+  "created_at": "20260213T222621Z",
+  "created_by": "vincent",
+  "fields": {
+    "Datasheet": "https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R7BB104",
+    "Description": "0.1 \u00b5F \u00b110% 16V Ceramic Capacitor X7R 0603 (1608 Metric)",
+    "Footprint": "#lib - Capacitors:CAPC160X080X090L040N;#lib - Capacitors:CAPC160X080X090L040L;#lib - Capacitors:CAPC160X080X090L040M",
+    "MPN": "CC0603KRX7R7BB104",
+    "Manufacturer": "YAGEO",
+    "Operating Temperature": "-55\u00b0C ~ 125\u00b0C",
+    "Package": "0603",
+    "RoHS Status": "ROHS3 Compliant",
+    "Supplier": "Digikey",
+    "Supplier Part Number": "311-1088-1-ND",
+    "Symbol": "Device:C",
+    "Value": "220nF"
+  },
+  "schema_version": 1,
+  "source": "kicad_plugin_ui"
+}
