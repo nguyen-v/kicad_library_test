@@ -1,0 +1,11 @@
+{
+  "action": "update",
+  "created_at": "20260213T144849Z",
+  "created_by": "vincent",
+  "ipn": "CAP-0000000",
+  "schema_version": 1,
+  "set": {
+    "Footprint": "#lib - Capacitors:CAPC160X080X090L040N;#lib - Capacitors:CAPC160X080X090L040L;#lib - Capacitors:CAPC160X080X090L040M"
+  },
+  "source": "kicad_plugin_ui"
+}
