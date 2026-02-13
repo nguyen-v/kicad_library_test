@@ -112,6 +112,99 @@
                     "show_name": false
                 }
             ]
+        },
+        {
+            "name": "Resistors",
+            "table": "Resistors",
+            "key": "IPN",
+            "symbols": "Symbol",
+            "footprints": "Footprint",
+            "fields": [
+                {
+                    "column": "IPN",
+                    "name": "IPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Symbol",
+                    "name": "Symbol",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": false
+                },
+                {
+                    "column": "Footprint",
+                    "name": "Footprint",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": false
+                },
+                {
+                    "column": "Value",
+                    "name": "Value",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Description",
+                    "name": "Description",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "MPN",
+                    "name": "MPN",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Manufacturer",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Datasheet",
+                    "name": "Datasheet",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Operating Temperature",
+                    "name": "Operating Temperature",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "RoHS Status",
+                    "name": "RoHS Status",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Supplier",
+                    "name": "Supplier",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                },
+                {
+                    "column": "Supplier Part Number",
+                    "name": "Supplier Part Number",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true,
+                    "show_name": false
+                }
+            ]
         }
     ]
 }

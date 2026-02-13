@@ -10,3 +10,7 @@
 Capacitors:
   prefix: "CAP-"
   width: 7
+
+Resistors:
+  prefix: "RES-"
+  width: 7
