@@ -6,5 +6,7 @@
 #   width: 7
 #
 # Most existing categories infer their prefix automatically from existing rows.
-#
 
+Capacitors:
+  prefix: "CAP-"
+  width: 7
